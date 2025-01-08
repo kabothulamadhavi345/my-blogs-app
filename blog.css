@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    padding: 20px;
+}
+header{
+    color: cadetblue;
+    text-align: center;
+    font-size: x-k=large;
+    background-color: blue;
+}
+main{
+    margin-left: 40%;
+    padding: 20px;
+    width:60%;
+    margin: 0%;
+    text-align: center;
+}
+button{
+    margin-left: 60%;
+    background-color: blue;
+}
+button a{
+    color:aqua;
+    text-decoration: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
